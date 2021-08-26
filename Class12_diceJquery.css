@@ -1,0 +1,52 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+}
+
+body {
+    background-color: #E76F51;
+    margin: 0;
+}
+
+h1 {
+    margin: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #264653;
+    text-align: center;
+}
+
+p {
+    font-size: 2rem;
+    color: #264653;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    width: 100%;
+}
+
+.bottom {
+    padding-top: 30px;
+}
+
+.butn {
+    background: #E9C46A;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 7px;
+    color: #ffff;
+    font-size: 30px;
+    padding: 16px 25px 16px 25px;
+    text-decoration: none;
+}
+
+.butn:hover {
+    background: #E9C46A;
+    text-decoration: none;
+}
